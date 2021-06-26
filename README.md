@@ -13,7 +13,7 @@ This is one of the reasons I go for studies to fulfill my passion as for me, it 
 Data Management; with ability to understand the tools and technologies to manage and analyze large amounts of
 data using statistical and machine learning techniques;
 - 💞️ I’m looking to collaborate on development of career and improve on my skills set.
-- 📫 How to reach me will be easier with EMAIL... 
+- 📫 How to reach me; it will be easier with EMAIL... 
 
 <!---
 Lamboyjat/Lamboyjat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
