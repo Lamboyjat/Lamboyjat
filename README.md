@@ -5,11 +5,11 @@ with a second class CGPA. I decided to further my Master degree in Computer Scie
 
 - 👀 I’m interested in computing and technology in general, I am motivated by working on technical challenges. 
 As a System Admin and a Developer, I enjoy being given specifications for features to add or problems to solve and figuring out the best 
-and most effective course of action. Currently, I am about to graduate in my masters degree program as a computer science student. 
+and most effective course of action. I graduated in my masters degree program as a computer science. 
 We know there is a difference between academic learning and professional development. 
 This is one of the reasons I go for studies to fulfill my passion as for me, it is not where I start from but where I will end up for my future matters.
 
-- 🌱 I’m currently learning Data Management and Analysis (Data Science) in Ca Foscari University of Venice. Artificial Intelligence and Machine Learning,
+- 🌱 I’m learning Data Management and Analysis (Data Science) in Ca Foscari University of Venice. Artificial Intelligence and Machine Learning,
 Data Management; with ability to understand the tools and technologies to manage and analyze large amounts of
 data using statistical and machine learning techniques;
 - 💞️ I’m looking to collaborate on development of career and improve on my skills set.
