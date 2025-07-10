@@ -44,4 +44,4 @@ I’m looking to collaborate with others to grow professionally, contribute to m
 
 ### 📫 Get in Touch
 
-Feel free to reach out to me via **email** or on [LinkedIn](https://www.linkedin.com/in/lamboyjat/) it’s the best way to connect!
+Feel free to reach out to me via **email** or on [LinkedIn](https://www.linkedin.com/in/lamin-jatta/) it’s the best way to connect!
