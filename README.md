@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Lamin Jatta (@Lamboyjat)
 
-Born and raised in The Gambia—famously known as the "Smiling Coast of Africa"—I’m passionate about technology, learning, and making a positive impact through knowledge and innovation.
+Born and raised in The Gambia famously known as the "Smiling Coast of Africa" I’m passionate about technology, learning, and making a positive impact through knowledge and innovation.
 
 ### 🛠️ Technical Skills
 
@@ -31,10 +31,11 @@ Over time, I’ve come to understand the gap between academic knowledge and real
 
 ### 🌱 What I’m Learning
 
-I'm currently expanding my skills in:
+I'm regularly expanding my skills in:
 
 * **Data Management and Analysis (Data Science)**
 * **Artificial Intelligence & Machine Learning**
+* **UI Development with modern framework**
 * Mastering tools and technologies to manage and analyze large datasets using statistical and machine learning techniques
 
 ### 💞️ Collaboration & Goals
@@ -43,4 +44,4 @@ I’m looking to collaborate with others to grow professionally, contribute to m
 
 ### 📫 Get in Touch
 
-Feel free to reach out to me via **email**—it’s the best way to connect!
+Feel free to reach out to me via **email** or on [LinkedIn](https://www.linkedin.com/in/lamboyjat/) it’s the best way to connect!
