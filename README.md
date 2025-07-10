@@ -14,6 +14,14 @@ Born and raised in The Gambia—famously known as the "Smiling Coast of Africa"�
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-F7931E?style=flat&logo=scikitlearn)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat&logo=git)
 
+----
+* **Programming Languages**: Python, R, JavaScript, Java, Bash
+* **Data Science & AI**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, R (tidyverse, caret)
+* **Data Management**: SQL, InfluxDB, Supabase, PostgreSQL, MongoDB
+* **Big Data & Cloud**: Hadoop, Spark, Docker, Kubernetes, AWS
+* **Tools & Platforms**: Git, Linux, Jupyter, VS Code, QGIS
+* **Web & App Development**: ReactJS, Node.js, REST APIs
+* **Other**: MQTT, Zenoh, Ontology Engineering, LLMs (Retrieval-Augmented Generation), PDF/Document Parsing
 
 ### 👀 Interests & Motivation
 
