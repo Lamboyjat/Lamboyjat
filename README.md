@@ -18,8 +18,8 @@ Born and raised in The Gambia famously known as the "Smiling Coast of Africa" Iâ
 * **Programming Languages**: Python, R, JavaScript, Java, Bash
 * **Data Science & AI**: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, R (tidyverse, caret)
 * **Data Management**: SQL, InfluxDB, Supabase, PostgreSQL, MongoDB
-* **Big Data & Cloud**: Hadoop, Spark, Docker, Kubernetes, AWS
-* **Tools & Platforms**: Git, Linux, Jupyter, VS Code, QGIS
+* **Big Data & Cloud**: Docker, Kubernetes, AWS. GDC, Azure some knowledge in Hadoop, Spark,
+* **Tools & Platforms**: Git, Linux, Jupyter, VS Code, Cursor, AntiGravity, Claude Code, Codex Cli, QGIS
 * **Web & App Development**: ReactJS, Node.js, REST APIs
 * **Other**: MQTT, Zenoh, Ontology Engineering, LLMs (Retrieval-Augmented Generation), PDF/Document Parsing
 
